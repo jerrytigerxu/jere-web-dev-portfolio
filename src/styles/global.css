@@ -11,13 +11,14 @@ html, body {
   min-height: 100%;
 }
 body {
-  background: radial-gradient(at top left, rgba(146,43,225,1) 0%, rgba(43,9,107,1) 100%);
+  background: radial-gradient(at top left, rgb(115, 145, 255) 0%, rgb(45, 10, 110) 100%);
   background-repeat: no-repeat;
 }
 p {
   margin: 16px auto;
   line-height: 1.5em;
 }
+
 
 /* layout & nav */
 .layout {
@@ -27,7 +28,7 @@ p {
 nav {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  margin: 40px auto;
+  margin: 15px auto;
 }
 nav .links {
   display: inline-block;
@@ -37,6 +38,7 @@ nav a {
   display: inline-block;
   margin-left: 20px;
   font-weight: 400;
+  font-size: 1.3em;
   padding-bottom: 8px;
   border-bottom: 3px solid transparent;
 }
