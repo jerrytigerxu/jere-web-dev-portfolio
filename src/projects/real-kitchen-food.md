@@ -1,8 +1,8 @@
 ---
-title: Real Kitchen Food
-stack: HTML & CSS
-slug: real-kitchen-food
-date: 2021-04-05T00:00:00+00:00
+title: JAMcommerce 
+stack: React.js with DatoCMS and Snipcart
+slug: jam-commerce
+date: 2023-02-015T00:00:00+00:00
 thumb: ../images/thumbs/food.png
 featuredImg: ../images/featured/food-banner.png
 ---

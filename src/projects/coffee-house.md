@@ -1,8 +1,8 @@
 ---
-title: Coffee House
-stack: HTML & CSS
-slug: coffee-house
-date: 2021-01-03T00:00:00+00:00
+title: Simply Recipes
+stack: React.js with Contentful backend
+slug: simply-recipes
+date: 2023-03-24T00:00:00+00:00
 thumb: ../images/thumbs/coffee.png
 featuredImg: ../images/featured/coffee-banner.png
 ---

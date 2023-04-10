@@ -1,8 +1,8 @@
 ---
-title: Gaming Stuff
-stack: Django
-slug: gaming-stuff
-date: 2021-03-03T00:00:00+00:00
+title: Coding Blog 
+stack: React.js with Markdown
+slug: coding-blog
+date: 2023-03-11T00:00:00+00:00
 thumb: ../images/thumbs/gaming.png
 featuredImg: ../images/featured/gaming-banner.png
 ---
